@@ -41,3 +41,13 @@
 <ul>
     <li><a href="https://t.me/k1rsn7">Telegram</a></li>
 </ul>
+
+<li class="contact-item">
+  <div class="icon-box">
+    <ion-icon name="location-sharp"></ion-icon>
+  </div>
+  <div class="contact-info">
+    <p class="contact-title">Location</p>
+    <address></address>
+  </div>
+</li>
